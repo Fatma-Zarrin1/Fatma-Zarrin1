@@ -13,5 +13,5 @@ I'm a Business Intelligence (BI) developer passionate about transforming busines
 -  [**SQL Portfolio**](https://github.com/Fatma-Zarrin1/SQL-Portfolio)  
   A collection of SQL queries and analyses showcasing data extraction, transformation, and insights generation.  
 
--  [**Python - My First Project (Pandas Practice)**](https://github.com/Fatma-Zarrin1/MyFirstProject)  
+-  [**Python - My First Project (Pandas Project)**](https://github.com/Fatma-Zarrin1/MyFirstProject)  
   Hands-on exploration of data manipulation and analysis using Python’s Pandas library.  
